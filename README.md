@@ -14,10 +14,20 @@
 
 - 🌱 I’m currently learning **Next** - 👨‍💻 All of my projects are available at
 [https://portfolio-phi-two-50.vercel.app/](https://portfolio-phi-two-50.vercel.app/)
-- 💬 Ask me about **React , Node , Express** 
-- 📫 How to reach me **pinob.hanee99@gmail.com** 
-- 📄 Know about my experiences
-[https://drive.google.com/file/d/1FvOabHGMN4dTz6x8rhjOsHOWs4da95Hf/view?usp=sharing](https://drive.google.com/file/d/1FvOabHGMN4dTz6x8rhjOsHOWs4da95Hf/view?usp=sharing)
+- 💬 Ask me about **React , Node , Express** - 📫 How to reach me
+**pinob.hanee99@gmail.com** - 📄 Know about my experiences
+<p dir="auto">
+  &nbsp;
+  <a
+    href="https://drive.google.com/file/d/1FvOabHGMN4dTz6x8rhjOsHOWs4da95Hf/view?usp=drive_link"
+    rel="nofollow"
+    ><img
+      src="https://camo.githubusercontent.com/535355371236d1a67c933d93912fe2e16e635af91ca56fb83f255082ccb5c33c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d79253230526573756d652d3443414635303f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d6472697665266c6f676f436f6c6f723d7768697465"
+      alt="My Resume"
+      data-canonical-src="https://img.shields.io/badge/-My%20Resume-4CAF50?style=for-the-badge&amp;logo=google-drive&amp;logoColor=white"
+      style="max-width: 100%"
+  /></a>
+</p>
 - ⚡ Fun fact **I Like Anime and Manhawa**
 
 <h3 align="left">Connect with me:</h3>
