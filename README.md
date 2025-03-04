@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pinob Hanee Shawky</h1>
 <h3 align="center">A Computer Engineering graduate with expertise in the MEARN stack, honed through ITI. Skilled in building dynamic, responsive web applications, with a focus on user experience and performance. Ready to contribute technical skills and teamwork in a fast paced environment.</h3>
-<img align="right"  alt="Coding" width="200" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp" />
+<img align="right"  alt="Coding" width="400" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp" />
 
 
 - 🌱 I’m currently learning **Next**
