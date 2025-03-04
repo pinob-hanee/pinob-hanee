@@ -24,7 +24,7 @@
 <p dir="auto">
   <a href="https://www.linkedin.com/in/pinob-hanee99/" rel="nofollow"
     ><img
-      src="https://camo.githubusercontent.com/dd3b42cd50efd610e823027094520fb99524f20ba79ffa85541b105fa76496d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6873656e253230546179736565722d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465"
+      src="https://img.shields.io/badge/-Pinob%20Hanee-0077B5?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white"
       data-canonical-src="https://img.shields.io/badge/-Pinob%20Hanee-0077B5?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white"
       style="max-width: 100%"
   /></a>
@@ -36,7 +36,7 @@
   /></a>
   <a href="https://wa.me/+201201450980" rel="nofollow"
     ><img
-      src="https://camo.githubusercontent.com/4a7b327a64becb27d694ef1de8179c037dbb19a7de781e49249f65d002f721cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6873656e253230546179736565722d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d5768617473417070266c6f676f436f6c6f723d7768697465"
+      src="https://img.shields.io/badge/-Pinob%20Hanee-25D366?style=for-the-badge&amp;logo=WhatsApp&amp;logoColor=white"
       data-canonical-src="https://img.shields.io/badge/-Pinob%20Hanee-25D366?style=for-the-badge&amp;logo=WhatsApp&amp;logoColor=white"
       style="max-width: 100%"
   /></a>
