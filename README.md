@@ -14,7 +14,8 @@
 
 - 🌱 I’m currently learning **Next** - 👨‍💻 All of my projects are available at
 [https://portfolio-phi-two-50.vercel.app/](https://portfolio-phi-two-50.vercel.app/)
-- 💬 Ask me about **React , Node , Express** - 📫 How to reach me
+- 💬 Ask me about **React , Node , Express**
+- 📫 How to reach me
 **pinob.hanee99@gmail.com**
 - 📄 Know about my experiences
 <p dir="auto">
