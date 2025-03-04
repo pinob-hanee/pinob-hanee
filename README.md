@@ -75,91 +75,13 @@
         d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
       ></path></svg
   ></a>
-</div>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a  href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="30"
-      height="30"
-      style="margin: 4;"
-    />
-  </a>
-</p>
+</div><p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cb025a03b9d8598a0303ef6757e521447a811e1d00214963ca25760f8c201aed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35"><img src="https://camo.githubusercontent.com/cb025a03b9d8598a0303ef6757e521447a811e1d00214963ca25760f8c201aed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" alt="HTML" data-canonical-src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/77d718d0e4b7c74cb4c7a8f91edaea4df31f8c7a652299354d03dfd650013e13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236"><img src="https://camo.githubusercontent.com/77d718d0e4b7c74cb4c7a8f91edaea4df31f8c7a652299354d03dfd650013e13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236" alt="CSS" data-canonical-src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/34f7bd4580cb139d4ded5c1014a0909ffb4f088bde0290558083ba261023416b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/34f7bd4580cb139d4ded5c1014a0909ffb4f088bde0290558083ba261023416b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/87d05abe4ffe434dfcd4feafd513b4659a25ad1cca6fcf523e4925d2264e4384/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3035313232413f7374796c653d666c6174266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d353633443743"><img src="https://camo.githubusercontent.com/87d05abe4ffe434dfcd4feafd513b4659a25ad1cca6fcf523e4925d2264e4384/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3035313232413f7374796c653d666c6174266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d353633443743" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fe2872cd231aeb9b256ecadbaa730f1b77dc3a9751b5b1c9d8432a2293e9e232/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e67756c61722d3035313232413f7374796c653d666c6174266c6f676f3d416e67756c6172"><img src="https://camo.githubusercontent.com/fe2872cd231aeb9b256ecadbaa730f1b77dc3a9751b5b1c9d8432a2293e9e232/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e67756c61722d3035313232413f7374796c653d666c6174266c6f676f3d416e67756c6172" alt="Angular" data-canonical-src="https://img.shields.io/badge/-Angular-05122A?style=flat&amp;logo=Angular" style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/48cd2f065fbc68ced2d80ae468e0dcfbfa34de880fa7ca6d6f9625dba9847330/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d5265616374"><img src="https://camo.githubusercontent.com/48cd2f065fbc68ced2d80ae468e0dcfbfa34de880fa7ca6d6f9625dba9847330/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d5265616374" alt="React" data-canonical-src="https://img.shields.io/badge/-React-05122A?style=flat&amp;logo=React" style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d4b127a022ddbda678eec3251c16f61e30121467a48107fb08bd5e75f882989e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3035313232413f7374796c653d666c6174266c6f676f3d676974"><img src="https://camo.githubusercontent.com/d4b127a022ddbda678eec3251c16f61e30121467a48107fb08bd5e75f882989e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3035313232413f7374796c653d666c6174266c6f676f3d676974" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/91a2351b7179ad616fbeb72c1618d13fe257e60be6627180d5174fa6ec3d0200/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562"><img src="https://camo.githubusercontent.com/91a2351b7179ad616fbeb72c1618d13fe257e60be6627180d5174fa6ec3d0200/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0945fcd945bb6fff4144dcc168483d20445681153aa1efb7947f84d1b0989cd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2e4e65742d3035313232413f7374796c653d666c6174266c6f676f3d2e6e6574"><img src="https://camo.githubusercontent.com/0945fcd945bb6fff4144dcc168483d20445681153aa1efb7947f84d1b0989cd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2e4e65742d3035313232413f7374796c653d666c6174266c6f676f3d2e6e6574" alt=".net" data-canonical-src="https://img.shields.io/badge/-.Net-05122A?style=flat&amp;logo=.net" style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a7208adfafa5756bc52f9bf6c1f600de848be7ef3754c530cd4296ed0a87a184/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2532302d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e"><img src="https://camo.githubusercontent.com/a7208adfafa5756bc52f9bf6c1f600de848be7ef3754c530cd4296ed0a87a184/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2532302d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python%20-05122A?style=flat&amp;logo=python" style="max-width: 100%;"></a>&nbsp;</p>
