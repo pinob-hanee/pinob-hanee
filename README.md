@@ -153,12 +153,13 @@
       height="30"
     />
   </a>
-  <a style="margin: 4;" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a  href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
       width="30"
       height="30"
+      style="margin: 4;"
     />
   </a>
 </p>
