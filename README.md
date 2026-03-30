@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Pinob Hanee Shawky</h1>
 
 <h3 align="center">
-  Computer Engineering Graduate | MEARN Stack Developer
+  Computer Engineering Graduate | MERN Stack Developer
 </h3>
 
 <p align="center">
