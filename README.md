@@ -1,5 +1,5 @@
 <!-- =========================
-   FIXED README (ISSUES SOLVED)
+   FULL GITHUB README (WORKING)
    ========================= -->
 
 <h1 align="center">Hi 👋, I'm Pinob Hanee Shawky</h1>
@@ -98,48 +98,15 @@
 </p>
 
 <!-- =========================
-   STATS (FIXED)
+   STATS (WORKING VERSION)
    ========================= -->
 
-### 📊 GitHub Stats
+### 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pinob-hanee&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ponza-art&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=pinob-hanee&theme=tokyonight" />
 </p>
 
 <!-- =========================
-   FIXES EXPLANATION
+   END
    ========================= -->
-
-<!--
-ISSUES YOU HAD:
-
-1. ❌ "Could not find user" 
-   ✔ FIX: username was wrong OR service endpoint outdated
-   ✔ used: ponza-art (correct)
-   ✔ changed streak API to: streak-stats.demolab.com
-
-2. ❌ camo.githubusercontent image (slow/broken sometimes)
-   ✔ FIX: replaced with stable GIF
-
-3. ❌ WhatsApp link wrong format
-   ✔ FIX: removed "+" → must be: wa.me/201XXXXXXXXX
-
-4. ❌ messy spacing / alignment
-   ✔ FIX: cleaned sections + centered layout
-
-5. ❌ badge encoding errors (%30 etc)
-   ✔ FIX: replaced with clean shields URLs
-
-IMPROVEMENTS:
-
-✔ Better structure (Frontend / Backend / DB / Tools)
-✔ Cleaner UI (modern GitHub style)
-✔ Faster loading assets
-✔ Production-ready README
-
--->
